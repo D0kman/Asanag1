@@ -13,3 +13,7 @@
 ## Download photo db
 
 *https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/D0kman/Asanag1/tree/main/info*
+
+## Download pdf
+
+*https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/D0kman/Asanag1/tree/main/pdf*
